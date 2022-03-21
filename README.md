@@ -2,7 +2,7 @@
 
 ### This program creates a temporary file to store data in a dictionary
 
-To add a key and its value to the dictionary use --key KEY and --val VALUE where KEY and VALUE are your own choice.
+To add a key and its value to the dictionary use --key KEY and --val VALUE, where KEY and VALUE are your own choice.
 If the key already exists in the dictionary, the new value of the key is added.
 
 ```
